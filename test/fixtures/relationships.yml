@@ -1,0 +1,15 @@
+one:
+    follower: grifball
+    followed: lana
+
+two:
+    follower: grifball
+    followed: malory
+
+three:
+    follower: lana
+    followed: grifball
+
+four:
+    follower: archer
+    followed: grifball
